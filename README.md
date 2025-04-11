@@ -1,4 +1,4 @@
-# Abseil - C++ Common Libraries
+2563ba11c491e96b7bf58d325aaffffe3742a5a1# Abseil - C++ Common Libraries
 
 The repository contains the Abseil C++ library code. Abseil is an open-source
 collection of C++ code (compliant to C++14) designed to augment the C++
@@ -13,7 +13,7 @@ standard library.
 - [Codemap](#codemap)
 - [Releases](#releases)
 - [License](#license)
-- [Links](#links)
+- [Links](#links) 
 
 <a name="about"></a>
 ## About Abseil
@@ -34,8 +34,6 @@ base, and we now want to provide those resources to the C++ community as
 a whole.
 
 <a name="quickstart"></a>
->a name="quickstart"></b>
-
 ## Quickstart
 
 If you want to just get started, make sure you at least run through the
@@ -43,7 +41,7 @@ If you want to just get started, make sure you at least run through the
 contains information about setting up your development environment, downloading
 the Abseil code, running tests, and getting a simple binary working.
 
-<a name="build"></a,b>
+<a name="build"></a>
 ## Building Abseil
 
 [Bazel](https://bazel.build) and [CMake](https://cmake.org/) are the official
@@ -133,7 +131,7 @@ Abseil contains the following C++ library components:
 * [`utility`](absl/utility/)
   <br /> The `utility` library contains utility and helper code.
 
-<a name="releases"></a,b>
+<a name="releases"></a>
 ## Releases
 
 Abseil recommends users "live-at-head" (update to the latest commit from the
@@ -143,16 +141,14 @@ Releases](https://github.com/abseil/abseil-cpp/releases) to which we backport
 fixes for severe bugs. See our [release
 management](https://abseil.io/about/releases) document for more details.
 
-<a name="license"></a,b>
+<a name="license"></a>
 ## License
 
 The Abseil C++ library is licensed under the terms of the Apache
 license. See [LICENSE](LICENSE) for more information.
 
-<a name="links"></b>
->[http://.com/github/cesarJrivera]<
-"b" name >cesarJrivera<
-
+<a name="links">2563ba11c491e96b7bf58d325aaffffe3742a5a1</a>
+"a" name cesarJrivera=cesarjr-Ache
 
 ## Links
 
